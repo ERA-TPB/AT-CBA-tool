@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-from sqlalchemy import intersect
 import streamlit as st
 import inputs
 import demand_calcs
