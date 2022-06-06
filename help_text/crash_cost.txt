@@ -1,0 +1,15 @@
+### Crash, fatality and injury costs
+
+The primary risk to the safety of active travellers is a crash, most likely from interactions with Motor vehicles. Initiatives that reduce these risks will generate benefits. 
+
+In project assessments, the safety impact of an active travel improvement is typically applied through crash risk reduction percentages. Existing active travel trips will experience a crash reduction benefit to the extent the project aims to separate motorised and non-motorised traffic streams, including improving safety at intersections and crossings.
+
+Safety benefits are estimated by comparing expected crash costs per trip in the project case with the base case. Practitioners can include distance-based safety benefits and, where information is available, safety benefits associated with intersection treatments.
+
+For distance-based calculations, per kilometre crash cost values for each transport mode are used to estimate safety benefits based on relative risk values for different surface types.
+
+For intersection treatments, the average cost of fatalities and serious injuries are used to estimate safety benefits based on the expected reduction in fatalities and serious injuries attributable to the project.
+
+Default crash costs for e-scooters and e-bikes are based on the ATAP values for bicycles.
+
+See: ATAP M4 - Active Travel (forthcoming - 2022), section 6.5.

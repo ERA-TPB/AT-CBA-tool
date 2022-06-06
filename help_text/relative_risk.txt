@@ -1,0 +1,13 @@
+### Relative risk
+
+In project assessments, the safety impact of an active travel improvement is typically applied through crash risk reduction percentages. Safety benefits are estimated by comparing expected crash costs per trip in the project case with the base case. 
+
+In the tool, relative risk values are used to calculate safety benefits from moving trips between surface types (e.g. from on-road to an on-road bikelane).
+
+For each mode, relative risk values are estimated for each surface types relative to on-road travel, which is the least safe surface. For example, a value of 0.10 for an off-road path for cyclists represents a 90% risk reduction per kilometre compared to on-road cycling.
+
+In general, crash risk reductions of the following order of magnitude can be expected: 
+ - 30 to 40% for interventions that partially separate walkers and cyclers from the traffic stream, such as kerb lanes located in the roadway.
+ - Up to 80% to 100% for interventions that achieve a high degree of active traveller separation from the traffic stream, such as off road cycle lanes and grade separations, or that enhance protection of active travellers at intersections.
+
+See: ATAP M4 - Active Travel (forthcoming - 2022), section 6.5.

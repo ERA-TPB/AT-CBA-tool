@@ -1,0 +1,9 @@
+### Health system costs
+
+The physical activity associated with active travel reduces the the burden on health systems because active travellers tend to be healthier. 
+
+Health system benefits are calculated for new active travel trips based on trip length and the per kilometre unit value.
+
+The default health system benefits for e-bikes are based on ATAP guidance for bicycles. By default it is assumed there are no health benefits to e-scooters.
+
+Source: ATAP M4 - Active Travel (forthcoming - 2022), section 6.7.

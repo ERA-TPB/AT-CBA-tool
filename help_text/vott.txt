@@ -1,0 +1,9 @@
+### Value of travel time
+
+Travel time is generally a disincentive to travel for transport trips (journey to work or education, trips for shopping and other personal business, and on employers' business). This means that time savings are typically recognised as a benefit for active travel trips. 
+
+Travel time savings are calculated based on time savings per trip, the number of transport trips and the value of travel time unit values.
+
+The default value of travel time adopted here is for private trips (i.e. transport trips other than those done at work). If trips as part of employment (e.g. bicycle couriers) represent a significant portion of demand, a higher value may be appropriate.
+
+Source: [ATAP PV2](https://www.atap.gov.au/parameter-values/road-transport/3-travel-time).

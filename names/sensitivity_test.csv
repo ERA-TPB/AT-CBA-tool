@@ -1,0 +1,8 @@
+﻿sensitivity,up_name,up_min,up_max,up_default,down_name,down_min,down_max,down_default,step
+discount_rate,High discount rate %,,15,9,Low discount rate %,0,,4,1
+capex_sensitivity,Increased capital costs %,0,1000,10,Decreased capital costs %,-100,0,-10,1
+opex_sensitivity,Increased operating costs %,0,100,10,Decreased operating costs %,-100,0,-10,1
+demand_sensitivity,Increased demand %,0,100,10,Decreased demand %,-100,0,-10,1
+trip_distance_sensitivity,Increased trip distance %,0,100,10,Decreased trip distance %,-100,0,-10,1
+new_trips_sensitivity,Higher proportion of new trips %,0,100,10,Lower proportion of new trips %,-100,0,-10,1
+transport_share_sensitivity,Higher transport trip purpose %,0,100,10,Lower transport trip purpose %,-100,0,-10,1

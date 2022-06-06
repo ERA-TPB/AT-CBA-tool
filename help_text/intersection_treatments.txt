@@ -1,0 +1,9 @@
+### Intersection treatments
+
+Use this section to include safety improvements for any intersection treatments as part of the project.
+
+This is calculated by taking the expected number of fatalities and injuries in the base case, multiplying them each by a cost parameter, then reducing this cost by the input risk reduction factor.
+
+Note that safety improvements from moving trips between surface types (e.g. from on-road to an on-road bikelane) will already be calculated. This section is for additional safety benefits from altering an intersection with known risks of injury or death.
+
+See: [ATAP M4 5.5.2](https://www.atap.gov.au/mode-specific-guidance/active-travel/5-estimation-of-benefits) for a guide to the effectiveness of intersection treatments.

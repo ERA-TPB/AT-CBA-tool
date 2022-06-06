@@ -1,0 +1,3 @@
+### Opening year
+
+The opening year represents the first year the project is open to users and is the reference point for base year demand estimates. 

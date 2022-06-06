@@ -1,0 +1,9 @@
+### Morbidity and mortality costs
+
+The physical activity associated with active travel results in reduced morbidity and mortality.
+
+Private health benefits are estimated based on the change in trip length for existing active travellers and the length of new active travel trips using a per kilometre unit value. This parameter is used to calculate the total health benefits from the project but is not used in the calculation of net benefits for the cost benefit analysis. For perceived benefits (like Morbidity and mortality benefits or travel time reductions), the calculation of benefits for those switching from other modes is half the benefits accruing to those already using the infrastructure (the rule of a half). Usually, an active transport project will not increase the private health benefits to existing users, so the benefits to new users are part of the net benefits calculated by the rule of a half.
+
+The default health benefits for e-bikes are based on ATAP guidance for bicycles. By default it is assumed there are no health benefits to e-scooters.
+
+Source: ATAP M4 - Active Travel (forthcoming - 2022), section 6.7

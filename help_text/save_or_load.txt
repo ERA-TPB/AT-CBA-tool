@@ -1,0 +1,7 @@
+### Save Project
+
+The Save Project button allows you to download a save file containing all the inputs or parameters you have changed.
+
+### Load Project
+
+The Load Project button allows you to upload a save file previously created using the "Save Project" button. All the inputs or parameters you previously saved will be restored.

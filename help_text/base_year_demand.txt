@@ -1,0 +1,9 @@
+### Opening year demand
+
+Opening year demand is the expected number of trips for each active travel mode in the opening year of the project. This includes existing active travel trips in the base case that continue in the project case, along with new active travel trips induced by the initiative (diverted from other transport or altogether new trips).
+
+Ensure the period your demand assumptions are based upon match the annualisation factor you have adopted. With the default annualisation of 52, this should be a weekly average If the annualisation factor is 365, for example, this should be the average over the entire year. If the adopted value is 260, this should be the average of weekdays.
+
+Estimating active travel demand is challenging. There are various demand estimation approaches, and the choice of approach will typically depend on the scale of the project, data availability, level of accuracy required and available resources. For small to medium scale projects, the use of comparison studies, elasticities or diversion rates would likely be suitable. For larger projects such as constructing an off-road shared path or a missing link, a demand model could be worthwhile. 
+
+Source: ATAP M4 - Active Travel (forthcoming - 2022), section 9.0

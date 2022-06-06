@@ -1,0 +1,7 @@
+### Cost of congestion
+
+When Motor vehicle trips shift to active travel, other motorists who continue to use the road network face less traffic congestion, and thus gain a benefit. Congestion costs vary depending on the time of day the trip is made and the location of the trip.   
+
+Decongestion benefits are estimated for new active travel trips that switch from cars in the base case using per kilometre unit values and estimated diversion congestion rates.
+
+Source: [National Guidelines for Transport System Management in Australia (2006)](https://www.atap.gov.au/parameter-values/public-transport/index) - section 6.6.

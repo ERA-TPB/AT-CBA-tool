@@ -1,0 +1,5 @@
+### Change in distances
+
+Values represent changes in total trip distance if the project is expected to provide a more direct route for existing active travellers. This is only likely to be relevant for projects that provide a missing link such as a bridge or a missing cycleway segment.
+
+A negative change represents a reduction in distance travelled and will be included as a benefit through time savings and crash risk reduction for active travellers.

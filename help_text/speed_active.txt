@@ -1,0 +1,9 @@
+### Average speeds for active modes
+
+The average speed for active travel trips tends to vary based on facility type. For example, a cyclist on a dedicated bikeway is likely to have a higher average speed than a comparable cycling trip on a congested road with intersections.   
+ 
+Average effective speed inputs are critical as changes in travel time are calculated through estimates of changes in speed. Projects that deliver new active travel infrastructure with a higher average effective speed compared to the infrastructure used in the base case will reduce travel times for active travellers.
+ 
+Benefits are calculated for active travel trips based on reduced travel times using value of travel time unit values. 
+
+See: ATAP M4 - Active Travel (forthcoming - 2022), section 6.6.

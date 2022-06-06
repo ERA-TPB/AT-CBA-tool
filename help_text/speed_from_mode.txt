@@ -1,0 +1,5 @@
+### Average speed for other modes
+
+Speed from mode represents the average speed for a typical car or public transport trip. 
+
+The average speed from car and public transport is for illustrative purposes and is not used in net present value or benefit cost ratio calculations.

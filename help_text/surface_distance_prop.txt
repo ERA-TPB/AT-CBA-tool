@@ -1,0 +1,7 @@
+### Surrounding infrastructure type
+
+For most active travel trips, users will travel some proportion of their total trip distance on different surfaces outside of the project. Usually, this will not change between the base and project cases.
+
+However, if the project causes significant route changes, it may be appropriate to adopt a different assumption about surfaces in the project case than the base case. This may be the case where many users alter their routes in order to access the new infrastructure. For example, the construction of a bikeway will cause many riders to take a different route through local road networks to access the bikeway and this may significantly alter which types of infrastructure they use for the remainder of their trip.
+
+These proportions will be applied only to the trip length outside of the facility. If the total trip length is less than the length of the facility, thse proportions will not be applied.

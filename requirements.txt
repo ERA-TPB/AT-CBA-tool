@@ -1,0 +1,12 @@
+numpy
+pandas
+plotly
+seaborn
+matplotlib
+mdutils
+kaleido
+reportlab
+pdfdocument
+PyPDF2
+svglib
+openpyxl

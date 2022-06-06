@@ -1,0 +1,7 @@
+### Cost of road infrastructure provision
+
+Each car trip contributes to some extent to the need for capital investment in roads and to general maintenance of road infrastructure. 
+
+Reduced road provision costs are calculated for trips that switch from cars based on per kilometre unit values.
+
+Source: [Austroads](https://austroads.com.au/publications/economics-and-financing/agpe04-08)

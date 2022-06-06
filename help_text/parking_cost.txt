@@ -1,0 +1,7 @@
+### Parking costs
+
+New active travel trips that switched from cars in the base case are likely to save on parking costs. Work trips and some education trips to inner-city areas are the trips for which parking benefits are most likely.  
+
+Reduced parking costs are calculated for new active travel trips that diverted from cars based on trip length and the per kilometre unit value.
+
+Source: [Austroads](https://austroads.com.au/publications/economics-and-financing/ap-114-94)

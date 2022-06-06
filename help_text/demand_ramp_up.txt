@@ -1,0 +1,7 @@
+### Demand ramp up period
+
+Initiatives will usually take time for adoption levels to reach their plateau point. It is therefore appropriate to apply a ramping up period, whereby full benefits to new users are not realised until a ramp up period has passed. While this period will vary from project to project, often in ways that are difficult to anticipate, ATAP and the expert consensus for a WHO sponsored assessment tool (HEAT), recommend a five-year ramp up period.
+
+In this tool, demand from sources other than active travel is assumed to linearly ramp up to its assumed level over the input ramp up period.
+
+See: [ATAP M4](https://www.atap.gov.au/mode-specific-guidance/active-travel/5-estimation-of-benefits)

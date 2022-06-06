@@ -1,0 +1,9 @@
+Welcome to the Active Travel Economic Appraisal Tool developed by The Department of Transport and Main Roads, Queensland. This tool aims to assist with conducting rapid cost-benefit analysis consistent with the Australian Transport Assessment and Planning (ATAP) Guidelines (M4 Active Travel).
+
+Default parameter values used to calculate benefits are sourced primarily from the ATAP guidelines and indexed to 2021 $AUD. 
+
+Please be aware that there is currently limited evidence and guidance around parameter values for e-bikes and e-scooters. If you wish to include these modes, you should first review and amend the default values provided in the tool. Alternatively, to remove these modes from the analysis, simply set their demand to zero. These values will be updated in due course.
+
+'Help' buttons are provided throughout the tool. These provide additional information on what inputs are required, how the tool uses them and where default values are sourced from. Clicking these buttons will change the left sidebar text. If the sidebar is not visible, click the arrow on the top left of the screen to expand it.
+
+If you require require additional support or have any questions, please contact the TMR's Cycling and Walking Team at: Cycling_Infrastructure_Program@tmr.qld.gov.au.

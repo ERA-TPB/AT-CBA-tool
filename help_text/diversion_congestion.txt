@@ -1,0 +1,7 @@
+### Motor vehicle congestion levels
+
+An initiative that has the effect of causing private Motor vehicle users to use active travel rather than drive could reduce congestion, depending on the time their trip is made.
+
+The impact that diversion from car to active travel will have on road congestion will depend on the prevailing levels of congestion and the time that this diversion occurs. Trips made during peak periods are much more likely to reduce congestion than recreational trips made on weekends.
+
+If the project causes car drivers to switch to active travel during busy commuting periods in an inner-city area, the proportion of 'busy' congestion is likely to be high. Conversely, in regional areas or where the mode shift is predominantly during quiet periods the proportion during 'light' periods is likely to be high.

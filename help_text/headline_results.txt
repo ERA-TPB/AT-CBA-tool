@@ -1,0 +1,17 @@
+### Net Present Value
+
+The net present value (NPV) of an initiative is the difference between the discounted stream of benefits and the discounted stream of costs .
+
+A positive NPV means that the initiative's benefits are larger than its costs (NPV =  PV Benefits - PV Costs). 
+
+### Benefit-Cost Ratio
+
+The benefit-cost Ratio (BCR) is the present value of benefits divided by the present value of costs. There are two alternate formulations of the BCR depending on how operating costs are treated:
+
+BCR1 puts costs and (savings in costs) that impact on government budgets in the denominator and everything else in the numerator.
+
+BCR2 puts costs that occur before completion of the initiative in the denominator and benefits and savings in costs that occur after completion of the initiative in the numerator.
+
+A BCR greater than one implies a positive NPV.
+
+See [ATAP T2](https://www.atap.gov.au/tools-techniques/cost-benefit-analysis/11-step-10-discount-benefits-and-costs-calculate-summary-results)

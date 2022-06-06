@@ -1,0 +1,12 @@
+### Project description
+
+The facility length is the total length of the project in kilometres.
+
+The previous facility type is the infrastructure used by active travellers prior to the project opening - that is, the infrastructure in the base case. This is only with respect to the new facility length and not the entire journey which could involve multiple facility types.
+
+The new facility type is the infrastructure being delivered by the project and will be used by active travellers in the project case.
+
+Most of the benefits of the project flow from these selections. Parameters for travel speed and safety input below are applied based on the selection of base and project case facility types.
+
+For example:
+There is currently a 2-kilometre missing section of an off-road cycle cycleway where active travellers must leave the cycleway and use adjacent roads before returning to the cycleway to complete their trip. The project being assessed is the completion of the missing cycleway segment. In this case the 'Facility length' is 2km, the 'Previous facility type' is On-road (no provision) and the 'New facility type' is Off-road path.

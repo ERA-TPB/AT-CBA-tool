@@ -1,0 +1,22 @@
+### Diversion rates
+
+Diversion rates are used to split total demand across four different types of users and are input separately for each of the included modes.
+- From car: people who have switched from car to active travel
+- From transit: people who have switched from public transit to active travel
+- From Bicycle/Pedestrian/e-Bike/e-Scooter: existing users, also known as 'reassigned' trips.
+- New trips: people who previously would not have travelled at all, if not for the project.
+
+Diversion rates can vary considerably between projects depending on their type, quality and location, how they fit within the broader active transport network and the attractiveness of the motorised alternatives. Users should carefully consider what diversion rates are appropriate for their project. 
+
+As a guide, users should first consider a realistic total for all new users - new trips and those diverted from transit and from car. In most cases, the proportion of trips made by all new users will be much lower than reassigned trips. Users should then consider an appropriate breakdown for all new trips on the facility. Relevant factors may include:
+- public transit service levels: where there are limited public transport options in the corridor, the proportion of trips diverted from public transit is likely to be negligible
+- congestion levels: areas with higher congestion levels are likely to have higher rates of diversion from car, as active travel is relatively more attractive.
+- mode and average trip length: people are more likely to substitute between modes with similar travel speeds, particularly over longer distances. In these cases, diversion rates from car or public transit are likely to be higher for bikes, e-bikes and e-scooters than for walking trips. 
+
+The default values provided may be representative of a new inner-city off-road shared path where there is likely to be many public transport alternatives and relatively high road congestion levels. 
+
+The practitioner will need consider the most appropriate diversion rates given the local travel patterns and transport network.
+
+Diversion rates are most useful for small to medium sized projects that will have some impact on demand and are likely to generate new active travel trips. As the size of an initiative increases, the use of a demand model may be worthwhile.
+
+See: ATAP M4 - Active Travel (forthcoming - 2021), section 9.4.

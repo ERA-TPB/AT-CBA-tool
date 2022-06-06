@@ -1,0 +1,11 @@
+### Discount rate
+
+Discounting allows for decisions to be made today about initiatives that have costs and benefits in the future. It is necessary because a dollar of benefit in the future is worth less than a dollar of benefit today. 
+
+Discounting future financial and economic benefits and costs of a project is used to derive key indicators such as net present value or benefit cost ratio. 
+
+There is a variety of views and approaches to selecting an appropriate social discount rate. In practice, it is typical to use the discount rate nominated by the funding jurisdiction. 
+
+Currently Infrastructure Australia guidance specifies a 7 per cent real discount rate with 4 per cent and 10 per cent used for sensitivity testing. Discount rate sensitivity testing can be done in the Sensitivity testing section of this tool. 
+
+See: [ATAP T2](https://www.atap.gov.au/tools-techniques/cost-benefit-analysis/11-step-10-discount-benefits-and-costs-calculate-summary-results)

@@ -1,0 +1,11 @@
+### Vehicle operating costs
+
+Transport trips using a vehicle (Motor vehicle, bicycle, e-bicycle or scooter) incur operating costs such as fuel, repairs and maintenance costs. Existing users will benefit from reduced vehicle operating costs if the project reduces trip distances. Users that switched from cars in the base case will benefit from reduced car operating costs.
+
+Operating cost savings are calculated for each trip based on the change in trip distance and the reduction in car trips using the per kilometre unit value.
+
+Default operating costs are calculated based on the stop-start interrupted flow model outlined in ATAP PV2, section 5.4, using the assumed average inner city commuting speed of 35km/h. 
+
+Source: [ATAP PV2](https://www.atap.gov.au/parameter-values/road-transport/5-vehicle-operating-cost-voc-models).
+
+Default bicycle operating costs are based on a representative vehicle travelling 2,600 kilometre annually over a 10 year life, with average vehicle costs and service and maintenance costs sourced from [The Australian Cycling Economy 2021 Report](https://www.weride.org.au/wp-content/uploads/2021/10/The-Australian-Cycling-Economy_October-2021-Updated.pdf), Ernst & Young Global Limited (2021).

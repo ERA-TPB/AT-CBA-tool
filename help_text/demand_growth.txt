@@ -1,0 +1,7 @@
+### Demand growth rates
+
+Demand estimates also need to be projected into the future either by using a fixed annual growth rate or by using a demand model.
+
+Where a demand model is not used, fixed annual growth rates are assumed over the appraisal period. Plausibility checks on future demand should be used to ensure these assumptions are realistic.
+
+If demand forecasts are available, practitioners can download the auto-generated template below, input values manually in the format provided and upload in the indicated section.

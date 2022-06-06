@@ -1,0 +1,9 @@
+### Total trip distance
+
+The average trip distance represents the average total trip distance for users of each mode - not just the component of the trip on the new facility.
+
+Average trip distances tend to vary by mode and trip purpose and may differ depending on the location and nature of a project. For example, walking trip distances tend to be similar across trip purposes, whereas cycling trip distances may vary considerably with work trips typically longer than non-work trips.
+
+Trip distances are used to calculate net benefits for new active travel trips. This includes health benefits based on the average length of a new walking or cycling trip or environmental and decongestion benefits based on the reduction in vehicle kilometres from those switching from cars.
+
+

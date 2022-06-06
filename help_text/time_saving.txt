@@ -1,0 +1,7 @@
+### Change in travel time
+
+This section allows practitioners to incorporate travel time savings not arising out of a reduction in trip distance or increased travel speed. 
+
+This figure should be the average per trip (not per intersection treatment).
+
+For new active travel infrastructure, travel time savings will mostly result from users switching to a new facility with a higher average speed and/or a reduction in the distance travelled as a result of the project.  Distinct travel time savings are only likely to be relevant for specific projects that reduce delays for active travellers but do not result in a change in infrastructure type. For example, a bridge or underpass that reduces delays at an intersection but does not result in a change in distance or travel speed. A positive change represents a travel time saving and will be calculated as a benefit based on the value of travel time unit values.

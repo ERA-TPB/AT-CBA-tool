@@ -1,0 +1,7 @@
+### Capital and operating costs
+
+Project costs include the construction and maintenance costs of the project for each year over the appraisal period. 
+
+Costs should be expressed in 2021 dollars as this tool uses a real discount rate which accounts for inflation.
+
+See: ATAP M4 - Active Travel (forthcoming - 2022), section 7.0.

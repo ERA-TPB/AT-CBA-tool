@@ -1,0 +1,9 @@
+### Transport share of trips
+
+The value of travel time tends to vary based on several factors including trip purpose and destination. For transport trips (journey to work or education, trips for shopping and other personal business, and on employers' business), travel time is a disincentive to travel and time savings should be recognised as a benefit. For non-transport trips (recreation or exercise), time might be a positive feature of travel and travel time savings are unlikely to generate a benefit.
+ 
+For projects where use is largely expected to be for transport purposes, transport share should be relatively high. The remaining trips are assumed to be for recreational purposes.
+ 
+Travel time savings are calculated only for transport trips based on time savings per trip and the value of travel time unit values.
+
+See: ATAP M4 - Active Travel (forthcoming - 2022), section 6.6.2.
