@@ -6,4 +6,4 @@ Please be aware that there is currently limited evidence and guidance around par
 
 'Help' buttons are provided throughout the tool. These provide additional information on what inputs are required, how the tool uses them and where default values are sourced from. Clicking these buttons will change the left sidebar text. If the sidebar is not visible, click the arrow on the top left of the screen to expand it.
 
-If you require require additional support or have any questions, please contact the TMR's Cycling and Walking Team at: ERA-TPB@tmr.qld.gov.au.
+If you require additional support or have any questions, please contact the TMR's Cycling and Walking Team at: ERA-TPB@tmr.qld.gov.au.
