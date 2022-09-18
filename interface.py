@@ -42,6 +42,9 @@ _max_width_()
 st.title("Active Travel Economic Appraisal Tool")
 st.markdown((open('help_text/sample_intro.txt').read()))
 
+# re-initialise outputs
+outputs.exported_inputs = {}
+
 st.header('File')
 
 with st.expander('Save or load projects'):
