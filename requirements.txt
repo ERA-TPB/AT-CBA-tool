@@ -1,6 +1,6 @@
 numpy
 pandas
-pycairo
+pkgconfig
 plotly
 seaborn
 matplotlib
