@@ -1,12 +1,11 @@
 numpy
 pandas
-pkgconfig
 plotly
 seaborn
 matplotlib
 mdutils
 kaleido
-reportlab
+reportlab == 3.6.13
 pdfdocument
 PyPDF2 == 2.12.1
 svglib
