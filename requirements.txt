@@ -1,6 +1,6 @@
 streamlit == 1.35.0
 numpy
-pandas
+pandas == 2.3.3
 plotly
 seaborn
 matplotlib
@@ -11,3 +11,4 @@ pdfdocument
 PyPDF2 == 2.12.1
 svglib
 openpyxl
+
